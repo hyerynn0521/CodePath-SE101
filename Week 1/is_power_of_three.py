@@ -7,6 +7,10 @@
 # The function accepts INTEGER n as parameter.
 #
 #
+"""
+Given an integer, write a function to determine if it is a power of three. Return 1 if the integer is a power of
+three or 0 if it is not.
+"""
 def isPowerOfThree(n):
 # Write your code here
   if n == 0:
