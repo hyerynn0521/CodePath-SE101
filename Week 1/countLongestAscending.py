@@ -4,6 +4,9 @@
 # The function is expected to return an INTEGER.
 # The function accepts INTEGER_ARRAY number_array as parameter.
 #
+"""
+
+"""
 def countLongestAscending(number_array):
 # Write your code here
   ascending = 1
